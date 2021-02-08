@@ -21,7 +21,14 @@
 </head>
 
 <body <?php body_class(); ?>>
-    test
+    <?php
+
+$user_ID = get_current_user_id(); 
+echo $user_ID;
+// the_field('user_facebook', 'user_'. $user_ID);
+
+?>
+    ?>
     <?php wp_body_open(); ?>
 
     <?php do_action( 'storefront_before_site' ); ?>
