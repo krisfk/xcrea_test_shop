@@ -25,7 +25,7 @@
 
 $user_ID = get_current_user_id(); 
 echo $user_ID;
-// the_field('user_facebook', 'user_'. $user_ID);
+the_field('credit', 'user_'. $user_ID);
 
 ?>
     ?>
