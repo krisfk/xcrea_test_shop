@@ -27,8 +27,8 @@ $user_ID = get_current_user_id();
 // echo $user_ID;
 // echo 9999;
 // the_field('credit', 'user_'. $user_ID);
-$author_field = get_field('credit', 'user_'. $user_ID );
-echo $author_field;
+// $author_field = get_field('credit', 'user_'. $user_ID );
+// echo $author_field;
 
 echo 888;
 
