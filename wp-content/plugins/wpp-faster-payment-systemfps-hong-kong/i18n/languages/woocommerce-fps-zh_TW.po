@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Faster Payment System(FPS) Hong Kong\n"
+"POT-Creation-Date: 2019-09-25 17:24+0800\n"
+"PO-Revision-Date: 2019-09-25 17:25+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-fps.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-wc-fps-admin.php:47
+msgid "Settings"
+msgstr "設定"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:16
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:48
+msgid "FPS Payments"
+msgstr "「轉數快FPS」付款"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:17
+msgid ""
+"Allows FPS payments. If you need any help on customized FPS integration, "
+"feel free to contact us at <a href='mailto:info@bearycommerce."
+"com'>info@bearycommerce.com</a>"
+msgstr ""
+"允許以「轉數快FPS」付款。 如果需要任何有關定製轉數快的方案, 歡迎透過 <a "
+"href='mailto:info@bearycommerce.com'>info@bearycommerce.com</a>與我們聯繫"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:38
+msgid "Enable/Disable"
+msgstr "啓用/停用"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:40
+msgid "Enable FPS Payments"
+msgstr "啟用「轉數快FPS」付款"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:45
+msgid "Title"
+msgstr "標題"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:47
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr "客戶在付款時看到的付款方式名稱。"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:53
+msgid "Description"
+msgstr "說明"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:55
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "客戶在付款時看到的付款方式說明。"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:56
+msgid "Please remit payment to the following FPS Account:"
+msgstr "請將匯款存入以下「轉數快FPS」賬戶:"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:61
+msgid "Instructions"
+msgstr "指示"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:63
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr "將添加到多謝頁面和電子郵件的說明。"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:64
+msgid ""
+"Please provide your reference number in Order Detail page after remitted "
+"payment through FPS."
+msgstr "透過「轉數快FPS」匯出款項後, 請在訂單詳細信息頁面中提供你嘅參考編號。"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:79
+msgid "How to use FPS payment?"
+msgstr "如何使用「轉數快FPS」付款？"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:116
+msgid "Awaiting FPS payments"
+msgstr "等待「轉數快FPS」付款"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:141
+msgid "Payment description:"
+msgstr "付款說明:"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:149
+msgid "Not submitted"
+msgstr "未提交"
+
+#: includes/payment-methods/class-wc-fps-gateway-offline.php:151
+msgid "FPS reference number:"
+msgstr "「轉數快FPS」參考編號:"
+
+#: public/partials/wc-fps-reference-number.php:13
+msgid "Submit your FPS reference number:"
+msgstr "提交「轉數快FPS」參考編號:"
+
+#: public/partials/wc-fps-reference-number.php:14
+msgid "Submit"
+msgstr "提交"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce 轉數快 Faster Payment System (FPS) Hong Kong"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The easiest way to integrate 轉數快 Faster Payment System (FPS) Hong Kong to "
+"your Wordpress WooCommerce shopping cart"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BearyCommerce"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://bearycommerce.com/"
+msgstr ""

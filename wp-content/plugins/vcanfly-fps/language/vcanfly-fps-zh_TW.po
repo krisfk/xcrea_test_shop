@@ -1,0 +1,126 @@
+# Copyright (C) 2019 Vcanfly
+# This file is distributed under the same license as the Vcanfly FPS Plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vcanfly FPS Plugin\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/Vcanfly-fps\n"
+"POT-Creation-Date: 2019-05-20T02:54:55-05:00\n"
+"PO-Revision-Date: 2020-07-05 18:49+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Domain: vcanfly-fps\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Plugin Name of the plugin
+msgid "Vcanfly FPS"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add FPS QR Code image on myaccount/view_order page."
+msgstr ""
+
+#. Author of the plugin
+msgid "Vcanfly"
+msgstr ""
+
+#. FPS Text above qrcode 1
+msgid "Please scan the FPS QR code to complete payment."
+msgstr "請掃瞄 FPS 二維碼完成付款。"
+
+#. FPS Text above qrcode 2
+msgid "Please verify payment amount."
+msgstr " 付款前, 請確認付款金額。"
+
+#. FPS Text above qrcode 3
+msgid "Thank you for your order!"
+msgstr "多謝惠顧!"
+
+#. Settings
+msgid "Settings"
+msgstr "設定"
+
+#.
+msgid "Plugin setting not working, please check your setting"
+msgstr "請檢查FPS外掛設定"
+
+#.
+msgid "Save Settings"
+msgstr "儲存設定"
+
+#.
+msgid "FPS Plugin Options"
+msgstr "FPS外掛設定"
+
+#.
+msgid "FPS Plugin"
+msgstr "FPS外掛"
+
+#.
+msgid "API endpoint not valid."
+msgstr "錯誤: 請檢查 API 終端設定"
+
+#.
+msgid "User ID not valid."
+msgstr "錯誤: 請檢查 User ID設定"
+
+#.
+msgid "API Key not valid."
+msgstr "錯誤: 請檢查 API Key 設定"
+
+#.
+msgid "FPS Payment via Vcanfly"
+msgstr "透過 Vcanfly FPS 付款"
+
+#.
+msgid ""
+"Display FPS QR code on order comfirmation page. You need an Vcanfly account "
+"to use this gateway."
+msgstr "在訂單頁面上顯示 FPS  二維碼。您需要一個 Vcanfly 帳戶才能使用此功能。"
+
+#.
+msgid "Enable/Disable"
+msgstr "啓用/停用"
+
+#.
+msgid "Title"
+msgstr "名稱"
+
+#.
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+
+#.
+msgid "Description"
+msgstr "內容"
+
+#.
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "當顧客在結帳的時候將會看到的付款方式說明."
+
+#.
+msgid "Instructions"
+msgstr "說明"
+
+#.
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+
+#.
+msgid "Awaiting payment"
+msgstr "等待付款"
+
+#~ msgid "VCHAIN GLOBAL ECOMMERCE LIMITED"
+#~ msgstr "付款前, 請確認付款金額"
+
+#~ msgid ""
+#~ "After payment is completed, please copy and submit the FPS reference "
+#~ "number in our site. Thank you for your order!"
+#~ msgstr ""
+#~ "透過FPS匯出款項後, 請在訂單詳細信息頁面中提供你嘅參考編號。多謝惠顧!"
