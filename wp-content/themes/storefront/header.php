@@ -25,10 +25,11 @@
 
 $user_ID = get_current_user_id(); 
 echo $user_ID;
+echo 9999;
 the_field('credit', 'user_'. $user_ID);
 
 ?>
-    ?>
+
     <?php wp_body_open(); ?>
 
     <?php do_action( 'storefront_before_site' ); ?>
